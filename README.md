@@ -76,7 +76,7 @@ Bollywood database platform with an AI SQL copilot and live schema ERD.
 
 <br><br>
 
-<a href="https://github.com/svarshil56/cineflow"><img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/svarshil56/bollywood-management-system"><img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -91,7 +91,7 @@ Role-based campus event platform with real-time QR ticketing.
 
 <br><br>
 
-<a href="https://github.com/svarshil56/dau-events"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/svarshil56/campus-events"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -106,7 +106,7 @@ Official event platform optimized for Core Web Vitals and speed.
 
 <br><br>
 
-<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://tic-tech-toe-2026.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
