@@ -1,127 +1,200 @@
-<h1 align="center">Hi 👋, I'm Varshil Shah</h1>
-<h3 align="center">🚀 Aspiring Software Developer • 🧠 Competitive Programmer • 💡 Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I+love+building+projects+%26+solving+DSA+problems;Codeforces+%7C+LeetCode+%7C+Full-Stack+Journey" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Varshil%20Shah&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Building%20fast%2C%20polished%20software&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=svarshil56">
-    <img src="https://komarev.com/ghpvc/?username=svarshil56&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/svarshil56?tab=followers">
-    <img src="https://img.shields.io/github/followers/svarshil56?label=Followers&style=for-the-badge&color=1f6feb" alt="followers" />
-  </a>
-  <a href="https://github.com/svarshil56">
-    <img src="https://img.shields.io/github/stars/svarshil56?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=238636" alt="stars" />
-  </a>
-</p>
+<br>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Development;AI+%26+Automation+Systems;Database+%26+Backend+Architecture)](https://git.io/typing-svg)
 
-## ✨ About Me
+<br>
 
-- 🎓 Tech enthusiast focused on writing clean and impactful software
-- 🏁 Active in competitive programming and daily problem solving
-- 🌱 Currently learning: **Advanced DSA, System Design basics, Full-Stack Development**
-- 🤝 Open to collaboration on meaningful and creative projects
-- 📫 Reach me at: **svarshil2006@gmail.com**
+<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://linkedin.com/in/varshilshah56"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
+<br><br>
 
-## 🌐 Connect With Me
+</div>
 
-<p align="left">
-  <a href="mailto:svarshil2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/varshilshah56" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/svarshil56" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/svarshil2006" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Varshil_Shah/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
----
+<br>
 
-## 🧠 Competitive Programming Highlights
+<div align="center">
+
+## 🌟 Portfolio
+
+<br>
+
+<img src="https://via.placeholder.com/900x460/151320/A78BFA?text=Portfolio+Preview" width="850" style="border-radius:12px" alt="Portfolio preview" />
+
+<br><br>
+
+![](https://img.shields.io/badge/Case_Studies-1a1a2e?style=flat-square&labelColor=6366F1&color=1a1a2e)
+![](https://img.shields.io/badge/Live_Projects-1a1a2e?style=flat-square&labelColor=8B5CF6&color=1a1a2e)
+![](https://img.shields.io/badge/Motion_Design-1a1a2e?style=flat-square&labelColor=A855F7&color=1a1a2e)
+![](https://img.shields.io/badge/Clean_UI-1a1a2e?style=flat-square&labelColor=C026D3&color=1a1a2e)
+![](https://img.shields.io/badge/Fast_%26_Responsive-1a1a2e?style=flat-square&labelColor=EC4899&color=1a1a2e)
+![](https://img.shields.io/badge/Open_Source-1a1a2e?style=flat-square&labelColor=F43F5E&color=1a1a2e)
+
+<br>
+
+A curated look at products I've designed and shipped end-to-end —
+from schema to interface, built for speed and clarity.
+
+<br>
+
+<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio_→-8B5CF6?style=for-the-badge&logoColor=white" /></a>
+
+<br><br>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+
+<br>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<br>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Codeforces</h3>
-      <ul>
-        <li>Handle: <a href="https://codeforces.com/profile/svarshil2006"><b>svarshil2006</b></a></li>
-      </ul>
-      <a href="https://codeforces.com/profile/svarshil2006">
-        <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>LeetCode</h3>
-      <ul>
-        <li>Username: <a href="https://leetcode.com/u/Varshil_Shah/"><b>Varshil_Shah</b></a></li>
-      </ul>
-      <img src="https://leetcard.jacoblin.cool/Varshil_Shah?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=CineFlow" width="100%" style="border-radius:10px" />
+
+**🎬 CineFlow**
+<br>
+Bollywood database platform with an AI SQL copilot and live schema ERD.
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/svarshil56/cineflow"><img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=DAU+Events" width="100%" style="border-radius:10px" />
+
+**🎟️ DAU Events**
+<br>
+Role-based campus event platform with real-time QR ticketing.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/svarshil56/dau-events"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=Tic+Tech+Toe+2026" width="100%" style="border-radius:10px" />
+
+**⚡ Tic Tech Toe 2026**
+<br>
+Official event platform optimized for Core Web Vitals and speed.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+<br><br>
+
+<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
 </table>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+
+<br>
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" />
-</p>
+<br>
 
----
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,mysql" />
 
-## 📌 Featured Work
+<br><br>
 
-<p>
-  I regularly build and experiment with projects across web development and problem-solving.
-  <br/>
-  👉 Explore all repositories here: <a href="https://github.com/svarshil56?tab=repositories"><b>github.com/svarshil56?tab=repositories</b></a>
-</p>
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
 
-<p>
-  <a href="https://github.com/svarshil56?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br><br>
 
----
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+<br><br>
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+
+<br><br>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+
+<br>
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=svarshil56&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svarshil56&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=svarshil56&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=svarshil56&show_icons=true&theme=radical&hide_border=true&bg_color=151320&title_color=A78BFA&icon_color=EC4899&text_color=e0e0e0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svarshil56&layout=compact&theme=radical&hide_border=true&bg_color=151320&title_color=A78BFA&text_color=e0e0e0" width="38%" />
 
----
+<br><br>
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=svarshil56&theme=radical&hide_border=true&background=151320&stroke=151320&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/svarshil56/svarshil56/output/snake.svg" alt="Snake animation" />
-</p>
+<br><br>
 
-> ℹ️ Snake animation will appear after adding a GitHub Action workflow that generates it.
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
----
+<br><br>
 
-<h3 align="center">💬 “Consistency beats intensity.”</h3>
-<p align="center">Thanks for visiting my profile! If you like my work, let’s connect and build something awesome 🚀</p>
+</div>
+
+<div align="center">
+
+## 🤝 Connect
+
+<br>
+
+<a href="mailto:202401194@dau.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/varshilshah56"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/svarshil56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/svarshil56"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/svarshil56"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+
+<br><br>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=100&section=footer" width="100%" />
