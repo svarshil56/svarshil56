@@ -9,10 +9,8 @@
 <br>
 
 <a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://linkedin.com/in/varshilshah56"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br><br>
 
 </div>
 
@@ -25,10 +23,6 @@
 ## 🌟 Portfolio
 
 <br>
-
-<img src="https://via.placeholder.com/900x460/151320/A78BFA?text=Portfolio+Preview" width="850" style="border-radius:12px" alt="Portfolio preview" />
-
-<br><br>
 
 ![](https://img.shields.io/badge/Case_Studies-1a1a2e?style=flat-square&labelColor=6366F1&color=1a1a2e)
 ![](https://img.shields.io/badge/Live_Projects-1a1a2e?style=flat-square&labelColor=8B5CF6&color=1a1a2e)
@@ -45,8 +39,6 @@ from schema to interface, built for speed and clarity.
 <br>
 
 <a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio_→-8B5CF6?style=for-the-badge&logoColor=white" /></a>
-
-<br><br>
 
 </div>
 
@@ -65,9 +57,7 @@ from schema to interface, built for speed and clarity.
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
-
-<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=CineFlow" width="100%" style="border-radius:10px" />
-
+  
 **🎬 CineFlow**
 <br>
 Bollywood database platform with an AI SQL copilot and live schema ERD.
@@ -81,8 +71,6 @@ Bollywood database platform with an AI SQL copilot and live schema ERD.
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=DAU+Events" width="100%" style="border-radius:10px" />
-
 **🎟️ DAU Events**
 <br>
 Role-based campus event platform with real-time QR ticketing.
@@ -95,8 +83,6 @@ Role-based campus event platform with real-time QR ticketing.
 
 </td>
 <td width="33%" valign="top" align="center">
-
-<img src="https://via.placeholder.com/400x220/151320/A78BFA?text=Tic+Tech+Toe+2026" width="100%" style="border-radius:10px" />
 
 **⚡ Tic Tech Toe 2026**
 <br>
@@ -163,14 +149,7 @@ Official event platform optimized for Core Web Vitals and speed.
 <div align="center">
 
 ## 📊 GitHub Analytics
-
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=svarshil56&show_icons=true&theme=radical&hide_border=true&bg_color=151320&title_color=A78BFA&icon_color=EC4899&text_color=e0e0e0" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svarshil56&layout=compact&theme=radical&hide_border=true&bg_color=151320&title_color=A78BFA&text_color=e0e0e0" width="38%" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=svarshil56&theme=radical&hide_border=true&background=151320&stroke=151320&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 <br><br>
@@ -186,12 +165,13 @@ Official event platform optimized for Core Web Vitals and speed.
 ## 🤝 Connect
 
 <br>
-
-<a href="mailto:202401194@dau.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=svarshil2006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://linkedin.com/in/varshilshah56"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/svarshil56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/svarshil56"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/svarshil56"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Varshil_Shah/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/svarshil2006"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 <br><br>
 
