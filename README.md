@@ -5,7 +5,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Development;AI+%26+Automation+Systems;Database+%26+Backend+Architecture)](https://git.io/typing-svg)
-
 <br>
 
 <a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
