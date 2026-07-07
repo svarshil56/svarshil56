@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://portfolio-three-mauve-evsx5xsqma.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1YR5FRzQkda_pxGE0x0ytT0tjzZ9Wkxhm/view"><img src="https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://linkedin.com/in/varshilshah56"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
